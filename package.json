@@ -1,0 +1,1 @@
+{"name":"zakayo-portfolio","version":"1.0.0","description":"Zakayo's personal portfolio","scripts":{"start":"npx serve .","build":"echo \"Static site, no build needed\"","test":"echo \"No tests configured\""}}
